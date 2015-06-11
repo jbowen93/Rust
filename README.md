@@ -1,3 +1,3 @@
 # Rust
 
-Repository for learning Rust language
+Repository for learning Rust language.
