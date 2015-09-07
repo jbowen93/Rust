@@ -1,0 +1,11 @@
+[package]
+
+name = "Piston_Test1"
+version = "0.0.1"
+authors = [ "Your name <you@example.com>" ]
+
+[[bin]]
+name = "hello_world"
+
+[dependencies]
+piston_window = "0.5.0"

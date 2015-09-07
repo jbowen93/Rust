@@ -1,0 +1,8 @@
+extern crate piston_window;
+
+use piston_window::*;
+
+fn main() {
+	let window: P
+    println!("Hello, world!");
+}

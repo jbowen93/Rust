@@ -1,0 +1,4 @@
+daemon_path=/home/josh/Code/racer/target/release/racer
+eclipse.preferences.version=1
+sdk_path=/usr/local
+sdk_src_path=/usr/local/src/rustc-nightly/src

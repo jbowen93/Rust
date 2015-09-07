@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.github.rustdt.ide.core.LaunchConfigurationType">
+<stringAttribute key="MAIN_FILE" value="src/main.rs"/>
+<stringAttribute key="PROGRAM_ARGS" value=""/>
+<stringAttribute key="PROJECT_NAME" value="test"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/test"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+</launchConfiguration>
